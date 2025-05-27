@@ -1,0 +1,9 @@
+body body {
+  background: linear-gradient(135deg, #e0f7fa, #fff1f0);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.card img { height: 200px; object-fit: cover; }
